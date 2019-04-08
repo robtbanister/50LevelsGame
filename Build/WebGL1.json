@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "TestWindows",
+"dataUrl": "WebGL1.data.unityweb",
+"asmCodeUrl": "WebGL1.asm.code.unityweb",
+"asmMemoryUrl": "WebGL1.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL1.asm.framework.unityweb",
+"TOTAL_MEMORY": 1073741824,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
